@@ -1,0 +1,22 @@
+body{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   background-color: #008064;
+}
+
+.link {
+   color: #fff;
+   text-decoration: none;
+}
+
+
+.link:hover {
+   text-decoration: none;
+   color: #fff;
+}
+
+.link:focus {
+   text-decoration: none;
+   color: #fff;
+}
